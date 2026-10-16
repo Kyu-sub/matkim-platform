@@ -1,0 +1,14 @@
+node_modules/
+.next/
+out/
+tsconfig.tsbuildinfo
+.env
+.env.local
+.env.production
+.env*.local
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+*.log
